@@ -1,0 +1,8 @@
+.bord{
+  width: 450px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 2em auto;
+  border: 1px solid rgb(120 165 241);
+  border-radius: 4px;
+}
